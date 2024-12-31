@@ -1,0 +1,34 @@
+Key Symbol	Keyway	Key Qty	Door #	Discription	NOTES
+A	T120	NA	District Entry Master	District Entry - Not on District Master * Issued by Safety Office	
+A10	T125	NA	Trio Bldg. Entries, Card Readers	Bldg. Entry - Not on District Master * Issued by Safety Office	
+A22	T125	NA	MDF/IT Card Readers	Not on District Master * Issued by Safety Office	
+A45	T125	NA	Mother's Room	Not on District Master * Issued by Safety Office	
+					
+TMK	T120	NA	All doors *except Card Readers	District master key* Issued by Facilities	
+					
+CCA	T125	10	All doors *except Card Readers	Interior Building master key	
+					
+CCA1	T125	54	Removable Mullions 101A,101B,101C, 101D,120A,127A, 127B,	Mullion Key	
+			134A, 135,158A, 158B, 158C, 158D, 159A, 159B,		
+			173C,		
+CCA2	T125	88	135,144, 147, 148, 149, 151, 153, 155, 156, 157, 162, 201, 202, 203, 204,	Teachers Key classrooms	
+			205, 206, 207,208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 141		
+			224, 225, 227, 228, 126, 123, 122, 113,114, 115, 134A, 127B, 129		
+			134D, 130A, 130B		
+CCA3	T125	8	169A, 170, 171A	Kitchen	
+CCA4	T125	16	172A, 173A, 173B, Gym mullions	PE Key/Gym	
+CCA5	T125	2	174	Gym storage	
+CCA6	T125	10	178, 177, Music mullion	Music	
+CCA7	T125	4	176, 179	Music storage	
+CCA8	T125	2	116	Office Specialist	
+CCA9	T125	2	128	Media	
+CCA10	T125	2	103	Principal	
+CCA11	T125	14	102A, 102B,108, 104, 110	Reception/Office Admin	
+CCA12	T125	2	118	Health	
+CCA13	T125	4	107A, 107B	Counseling	
+CCA14	T125	18	112, 163, 161, 137, 231, 167, 166, 164, 230, 130C	Custodian/Electrical/Mech	
+CCA15	T125	4	171B, 160	Cafeteria Storage	
+A22	T125	NA	142, 235	IDF, MDF	
+X1X	T125	NA	All Keys work - 120, 145,117, 139, 140, 148, 162, 227, 228	All Keys work - 120, 145,117, 139, 140, 148, 162, 227, 228	
+					
+UTA, UTE, FEOK1, UTB		4	Elevator	Set of elevator keys	

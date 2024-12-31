@@ -1,0 +1,38 @@
+Key Symbol	Keyway	Key Qty	Door #	Discription
+A	T120	NA	District Entry Master	District Entry - Not on District Master * Issued by Safety Office
+A15	T124	NA	Trio Bldg. Entries	Bldg. Entry - Not on District Master * Issued by Safety Office
+A22	D124	NA	MDF/IDF rooms	Not on District Master * Issued by Safety Office
+TMK	T120	NA	ALL interior	District TMK * Issued by Facilities
+				
+SKD				Not on Site Master. TMK works. 
+SKD36B	D124	12	Concessions	Not on Site Master. TMK works. 
+SKD37B	D124	8	Training/PE	Not on Site Master. TMK works. 
+SKD38B	D124	4	Bookkeeper closet	Not on Site Master. TMK works. 
+SKD39B	T124	7	Exterior Wood Shop entry	*Only issue to woodshop teacher* NOT ON TMK
+				
+				
+Site Master – AF	T124	37	ALL interior Doors	Site Master ( # 16-18 to Fred K. for knox boxes ) ( #19-21 to Custodians ) 
+Kitchen – AF4	T124	5	No Teacher access	Kitchen
+Counseling - AF3	T124	11	No Teacher access	Counseling
+SRO- AF2	T124	5	No Teacher access	SRO
+Admin -AF1	T124	5	No Teacher access	Admin
+				
+Teacher Master - AFA 	T124	220	ALL Classrooms	Teacher Master
+PE-AFA1	T124	15		PE/Baseball/Out bldgs. 
+Cage South-AFAX1	D124	5		South Batting cage
+Cage North-AFAX2	D124	5		North Batting cage
+Athletics– AFA2	T124	5		Athletics
+S Studies - AFA3	T124	5		S Studies
+W. Lang – AFA4	T124	5		W Lang
+Media Center- AFA5	T124	5		Media 
+Special Ed.- AFA6	T124	5		Spec Ed
+Math- AFA7	T124	5		Math
+CTE- AFA8	T124	5		CTE
+ESL-AFA9	T124	5		ESL
+Health-AFA10	T124	5		Health
+ELA-AFA11	T124	5		ELA
+Science-AFA12	T124	5		Science
+Career Center-AFA13	T124	5		Career C.
+Psych&SRO-AFA14	T124	5		Psych/SRO
+Rm#225,222 -AFA15	T124	5		Rm#225,222
+Cafeteria-AFA16	T124	5		Cafeteria

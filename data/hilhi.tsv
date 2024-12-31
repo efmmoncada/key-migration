@@ -1,0 +1,35 @@
+Key Symbol	Keyway	Bittings	Key Qty	Door #	Discription	
+A	T120		NA	District Entry Master	District Entry - Not on District Master * Issued by Safety Office	
+A12	T124		5	Trio Bldg. Entries	Bldg. Entry - Not on District Master * Issued by Safety Office	
+A22				MDF/IT		
+						
+SKD22b	T124		13	Custodial Office	Not on site Master	
+AB5	D123		5	#A123	Bookkeeper office	
+SKD6	D124		?		Hilhi Gym Snack bar	Outside doors only
+SKD7/7A	D124		79		Hil hi gyms snack bar master/Athletic trainers room	Cross keyed doors/storagg
+SKD8	D124		?		CAFE	
+SKD9	D124		?		DEPOT	
+DCC13/SKD2	D124		?		DCC13=Gym Snack Bar & Storage	SAME AS SKD7
+DCC15/SKD1	D124		?		DCC15=Gym Snack Bar Entries (NOT STORAGE)	
+SKD34B	D124		55		Hill Hi Field buildings Snack shack and storage at softball field and track.	New key assigned to buildings built march 2019 and two existing buildings at softball field rekeyed to match.
+						
+AH	D124		41	ALL interior Doors	Site Master	
+						
+AH1	D124		6		Kitchen	#6 to Nutrition Services.
+AH2	D124		10		Woodshop	
+AH3	D124		15	Tech Ed. Storage *	Tech Ed. Storage 	
+AH4	D124		2		Vogland Gallery	
+						
+AHA	D124		185	ALL Classrooms/Dept.	Teacher Master/Counseling	
+				Departments		
+AHA1	D124		5	interior Doors	Library	
+AHA2	D124		5	interior Doors	Drama/Music	
+AHA3	D124		5	interior Doors	Business Ed	
+AHA4	D124		5	interior Doors	Math/Science	
+AHA5	D124		5	interior Doors	Social Studies	
+AHA6	D124		5	interior Doors	Language Arts	
+AHA7	D124		35	interior Doors	Health Ed	
+AHA8	D124		9	interior Doors	Commons	
+AHA9	D124		5	interior Doors	Creative Arts	
+AHA10	D124		5	interior Doors*	Tech. Ed	
+AHA11	D124		2	RR	Admin Restroom	

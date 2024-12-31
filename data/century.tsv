@@ -1,0 +1,56 @@
+Key Symbol	Keyway	Key Qty	Door #	Discription	Log QTY.	notes	Keys in inventory	Keys issued	Keys lost
+A	T120	NA	District Entry Master	District Entry - Not on District Master * Issued by Safety Office	NA				
+A02	T125	NA	Nursery	Nursery entry -Not on District Master * Issued by Safety Office	NA				
+A01	T125	NA	Trio Bldg. Entries, Card Readers	Bldg. Entry - Not on District Master * Issued by Safety Office	NA				
+A22	T125	NA	MDF/IT Card Readers	Not on District Master * Issued by Safety Office	NA				
+					NA				
+					NA				
+TMK	T120		All district Master		NA	Interior Master			
+TMK125	T125		District master T125 keyway		NA	Interior Master			
+TMK124	T124		District master T124 keyway		NA	Interior Master			
+									
+									
+									
+BA	D125			Century High Campus Master	81				
+BA-S	D123			Century High Campus Master Security Key	*unknown qty	30			
+BA1	D125			Administrative Offices	*unknown qty	20			
+BA3				Athletic storage	10				
+									
+									
+BAA	D125			All Other Doors Master Key	?	*unknown qty			
+BAAA1	D125			Main Entry Door by Office	15	OLD not in use			
+BAAC1	D125			Classroom Main General Key	579				
+BAAE1	D125			Special Ed	89				
+BAAF1	D125			Field Key For Grounds	89				
+BAAF2				Girls Softball	10				
+BAAF2A				Girls Softball	10				
+BAAG	D125			Gym Key All Doors including restrooms& Athletic Storage	269				
+BAAG1	D125			Gym Key All Doors Except Athletic Storage	75				
+BAAK1	D125			Kitchen Master	20				
+BAAL1	D125			Leadership and Sound Storage in Gym	5				
+BAAM1	D125			Music/Drama	59				
+BAAM1A	D125			Costume	30				
+BAAM1A	D125			Costume	Duplicates *	20			
+BAAM1A	D125			Costume	Duplicates *	19			
+BAAM2	D125			Music/Drama Practice Rooms Only	20				
+BAAN1	D125			North West Exterior Entry	109	Not in use			
+BAAP1	D125			Paint Supply Room	10				
+BAAS1	D125			SW Exterior Entry Door 33	209	Not in use			
+BAAS2	D123			Science Chemcial Storage	10	Duplicates *			
+BAAT1	D125			Communications Lab TV	30				
+BAAT2	D125			Computer Labs N101, N102	15				
+BAAU1	D125			Student Store	20				
+BAAX	D125			Tennis Electrical room	5				
+BAAY1	D125			Media/Library	20				
+BAAZ1	D125			Gym Concession Stand	20				
+BAAZ2	D125			Recycle	5				
+BAAC1A	D125			HOME ECONOMICS	15				
+BA	D124			CHANGED KEYWAY ON MOWER SHED	*				
+BAAM1A	D124			STAGE LEFT/MENS R/R (SEWING RM) DRAMA AREA	20				
+				CENTURY ELEVATOR BARROL KEY 1137S	OLD				
+				SO. GATE PADLOCK BITTING TMK,BA,BAAM1,BAAK1	?				
+									
+X1X				Common/ lockdown ALL Keys	NA				
+									
+DCC7	T124			Main office RR	6				
+CM 	D124			Medical bldg.	27				
